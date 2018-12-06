@@ -70,6 +70,7 @@
 
     .field-comment {
         width: 30%;
+        cursor: default;
     }
 
     .sorting-icon {

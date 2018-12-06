@@ -12,7 +12,7 @@
                           title="Качество">
             </heading-cell>
             <heading-cell field="comment"
-                          title="Коммент">
+                          title="Комментарий">
             </heading-cell>
         </tr>
         </thead>
